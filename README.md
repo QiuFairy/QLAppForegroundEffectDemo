@@ -8,6 +8,7 @@
  ![image](https://github.com/QiuFairy/QLAppForegroundEffectDemo/raw/master/image1.png)
 
 ###用法[^1] 
+
 **在AppDelegate中**
 
 ```
