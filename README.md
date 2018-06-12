@@ -5,7 +5,7 @@
 
 ###效果图
 
- ![image](https://github.com/QiuFairy/QLAppForegroundEffectDemo/raw/master/image1.png)
+ ![image](https://github.com/QiuFairy/QLAppForegroundEffectDemo/blob/master/image1.png)
 
 ###用法[^1] 
 
